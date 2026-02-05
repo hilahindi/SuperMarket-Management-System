@@ -11,7 +11,7 @@ A robust and modular management system for a supermarket, featuring advanced mem
 
 ## 💻 Environment & Build
 * **IDE**: Optimized for **Visual Studio**.
-* **Language**: C (C99 Standard).
+* **Language**: C .
 
 ### Execution Instructions
 The program utilizes command-line arguments to toggle between different operating modes:
